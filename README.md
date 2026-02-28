@@ -1,5 +1,8 @@
-## Hi there 👋
+# Howdy! I'm a Linux and Windows sys admin with 15+ years experience. 
 
+I'm currently working on a Go binary of my dyndns script to replace the bloated docker image (<50MB)
+
+How to reach me: thejoelhansen@protonmail.com
 <!--
 **thejoelhansen/thejoelhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
