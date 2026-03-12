@@ -1,6 +1,6 @@
 ### Howdy! I'm a Linux and Windows sys admin with 15+ years experience. 
 
-I'm currently working on a Go binary of my dyndns script to replace the bloated docker image (<50MB)
+I'm currently working on a CLI command wrapper to support tool portability and collaboration. Written in Python.
 
 How to reach me: thejoelhansen@protonmail.com
 <!--
